@@ -13,7 +13,7 @@ authorTwitter: heyandras
 date: "2026-05-11T00:00:00.000Z"
 image: /assets/mini-shai-hulud-supply-chain-worm.jpg
 category: security
-isNew: true
+isNew: false
 ---
 
 ---
