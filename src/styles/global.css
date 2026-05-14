@@ -24,6 +24,15 @@ a {
 .prose {
 	--tw-prose-bold: #fff;
 }
+.prose :not(pre) > code {
+	@apply rounded bg-white/10 px-1 py-0.5 text-theme-dark-primary;
+}
+.prose thead th {
+	@apply text-white;
+}
+.prose tbody td {
+	@apply text-white;
+}
 ::-webkit-scrollbar {
 	@apply w-3;
 }

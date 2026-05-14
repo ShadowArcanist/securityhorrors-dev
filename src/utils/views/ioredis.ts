@@ -1,5 +1,5 @@
-import Redis from 'ioredis'
-const client = new Redis(import.meta.env.REDIS_URI)
+import Redis from "ioredis";
+const client = new Redis(import.meta.env.REDIS_URI);
 
 export const getViewsBySlug = async (slug: string) => {
 	if (slug) {
