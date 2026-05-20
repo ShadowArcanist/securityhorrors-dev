@@ -11,7 +11,7 @@ authorTwitter: heyandras
 date: "2026-05-14T00:08:00.000Z"
 image: /assets/postgresql-eleven-stitches.webp
 category: security
-isNew: true
+isNew: false
 ---
 
 ---
