@@ -12,7 +12,7 @@ authorTwitter: heyandras
 date: "2026-05-19T00:08:00.000Z"
 image: /assets/mini-shai-hulud-antv-wave.webp
 category: security
-isNew: true
+isNew: false
 ---
 
 ---
